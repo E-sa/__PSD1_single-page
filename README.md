@@ -7,6 +7,10 @@ https://www.free-css.com/free-css-templates/page196/conquer
 
 
 ### `inside folder`:
+
   npm install
+  
   npm i react-anchor-link-smooth-scroll
+  
   npm i node-sass
+  
