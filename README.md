@@ -1,7 +1,5 @@
 # single-page_responsive_website
 
-Simple example of a quiz game.
-
 It is a practice to make a responsive website.
 
 UI is from:
