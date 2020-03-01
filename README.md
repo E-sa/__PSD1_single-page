@@ -1,16 +1,24 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# single-page_responsive_website
 
-## Description
+Simple example of a quiz game.
+
 It is a practice to make a responsive website.
+
 UI is from:
-https://www.free-css.com/free-css-templates/page196/conquer
+[https://www.free-css.com/free-css-templates/page196/conquer]
 
 
-### `inside folder`:
+To start:
 
-  npm install
+    1.Download the project
   
-  npm i react-anchor-link-smooth-scroll
+    2.Run `npm install`
   
-  npm i node-sass
+    3.Run `npm start`
+  
+    4.See the result on your browser
+
+
+
+
   
